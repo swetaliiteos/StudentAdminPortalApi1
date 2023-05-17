@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using StudentAdminPortalAPI.DomainModels;
 using StudentAdminPortalAPI.Repositories;
@@ -16,8 +17,10 @@ namespace StudentAdminPortalAPI.Controllers
             this.studentRepository = studentRepository;
             this.mapper = mapper;
         }
+        
         [HttpGet]
         [Route("[controller]")]
+        
         public async Task<IActionResult>GetAllStudents()
         {
             var student = await studentRepository.GetStudentsAsync();

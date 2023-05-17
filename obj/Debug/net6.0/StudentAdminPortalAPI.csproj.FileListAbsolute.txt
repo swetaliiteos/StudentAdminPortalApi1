@@ -87,3 +87,9 @@ C:\Users\ITS\source\repos\StudentAdminPortalAPI\obj\Debug\net6.0\StudentAdminPor
 C:\Users\ITS\source\repos\StudentAdminPortalAPI\obj\Debug\net6.0\ref\StudentAdminPortalAPI.dll
 C:\Users\ITS\source\repos\StudentAdminPortalAPI\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\ITS\source\repos\StudentAdminPortalAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ITS\source\repos\StudentAdminPortalAPI\bin\Debug\net6.0\studentadminportal-ui\angular.json
+C:\Users\ITS\source\repos\StudentAdminPortalAPI\bin\Debug\net6.0\studentadminportal-ui\package-lock.json
+C:\Users\ITS\source\repos\StudentAdminPortalAPI\bin\Debug\net6.0\studentadminportal-ui\package.json
+C:\Users\ITS\source\repos\StudentAdminPortalAPI\bin\Debug\net6.0\studentadminportal-ui\tsconfig.app.json
+C:\Users\ITS\source\repos\StudentAdminPortalAPI\bin\Debug\net6.0\studentadminportal-ui\tsconfig.json
+C:\Users\ITS\source\repos\StudentAdminPortalAPI\bin\Debug\net6.0\studentadminportal-ui\tsconfig.spec.json
